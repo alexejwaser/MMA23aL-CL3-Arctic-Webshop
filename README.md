@@ -15,7 +15,7 @@ Dieses Repository enthält das Front-End eines Arctic-Webshops als Kursprojekt.
 | Jennifer Palladino | jennifer_palladino@sluz.ch |
 | Fiona Zurkirchen   | fiona_zurkirchen@sluz.ch   |
 | Linus Heller       | linus_heller@sluz.ch       |
-| Alexej Waser       | alexej.waser@sluz.ch       |
+| Alexej Waser (Verantwortlich Server)       | alexej.waser@sluz.ch       |
 
 ## Deployment
 
