@@ -1,5 +1,7 @@
 # Front-End Arctic Wintershop
 
+![Arctic Webshop Logo](assets/images/arctic_logo_512px.png)
+
 ## Projektübersicht
 
 Dieses Repository enthält das Front-End eines Arctic-Webshops als Kursprojekt.
