@@ -1,7 +1,7 @@
 # Front-End Arctic Wintershop
 
 <p align="center">
-  <img src="assets/images/arctic_logo_512px.png" alt="Arctic Webshop Logo" width="220" />
+  <img src="assets/images/arctic_logo_512px.png" alt="Arctic Webshop Logo" width="150" />
 </p>
 
 ## Projektübersicht
